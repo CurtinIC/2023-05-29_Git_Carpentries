@@ -40,6 +40,10 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 Check DC curriculum
 {% endcomment %}
 
+
+-------- Commenting out until details are confirmed -------------
+{% comment %}
+
 {% if site.carpentry == "dc" %}
 {% unless site.curriculum == "dc-astronomy" or site.curriculum == "dc-ecology" or site.curriculum == "dc-genomics" or site.curriculum == "dc-geospatial" or site.curriculum == "dc-image" or site.curriculum == "dc-socsci" %}
 <div class="alert alert-warning">
@@ -59,6 +63,9 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 </div>
 {% endunless %}
 {% endif %}
+
+-------- Commenting out to here until details are confirmed -------------
+{% endcomment %}
 
 {% comment %}
 EVENTBRITE
@@ -334,6 +341,9 @@ change the value of `carpentry` to `incubator`.
 <hr/>
 
 
+-------- Commenting out until details are confirmed -------------
+{% comment %}
+
 {% comment %}
 SCHEDULE
 
@@ -445,3 +455,6 @@ Please check the "Setup" page of
 [the lesson site]({{ site.incubator_lesson_site }}) for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
+
+-------- Commenting out to here until details are confirmed -------------
+{% endcomment %}
