@@ -41,8 +41,7 @@ Check DC curriculum
 {% endcomment %}
 
 
--------- Commenting out until details are confirmed -------------
-{% comment %}
+{% comment %} -------- Commenting out until details are confirmed -------------
 
 {% if site.carpentry == "dc" %}
 {% unless site.curriculum == "dc-astronomy" or site.curriculum == "dc-ecology" or site.curriculum == "dc-genomics" or site.curriculum == "dc-geospatial" or site.curriculum == "dc-image" or site.curriculum == "dc-socsci" %}
@@ -64,8 +63,8 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endunless %}
 {% endif %}
 
--------- Commenting out to here until details are confirmed -------------
-{% endcomment %}
+-------- Commenting out to here until details are confirmed ------------- {% endcomment %}
+
 
 {% comment %}
 EVENTBRITE
@@ -341,8 +340,8 @@ change the value of `carpentry` to `incubator`.
 <hr/>
 
 
--------- Commenting out until details are confirmed -------------
-{% comment %}
+{% comment %} -------- Commenting out until details are confirmed -------------
+
 
 {% comment %}
 SCHEDULE
