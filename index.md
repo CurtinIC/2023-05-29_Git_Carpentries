@@ -458,4 +458,4 @@ to obtain the software and data you will need to follow the lesson.
 -------- Commenting out to here until details are confirmed -------------
 {% endcomment %}
 
-<h2>Schedule and Setip details to be confirmed shortly</h2>
+<h2>Schedule and Setup details to be confirmed shortly</h2>
