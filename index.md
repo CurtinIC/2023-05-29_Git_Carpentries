@@ -342,8 +342,6 @@ change the value of `carpentry` to `incubator`.
 
 {% comment %} -------- Commenting out until details are confirmed -------------
 
-
-{% comment %}
 SCHEDULE
 
 Show the workshop's schedule.
@@ -454,8 +452,3 @@ Please check the "Setup" page of
 [the lesson site]({{ site.incubator_lesson_site }}) for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
-
--------- Commenting out to here until details are confirmed -------------
-{% endcomment %}
-
-<h2>Schedule and Setup details to be confirmed shortly</h2>
