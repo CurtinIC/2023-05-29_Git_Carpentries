@@ -53,7 +53,7 @@ If you choose to clone without the clone path
 you will clone inside your own recipes folder!
 Make sure to navigate to the `Desktop` folder first.
 
-![After Creating Clone of Repository](../fig/github-collaboration.tif)
+![After Creating Clone of Repository](../fig/github-collaboration.png)
 
 The Collaborator can now make a change in her clone of the Owner's repository,
 exactly the same way as we've been doing before:
