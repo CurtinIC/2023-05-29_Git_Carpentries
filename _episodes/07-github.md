@@ -62,7 +62,7 @@ which looked like this:
 
 Now that we have two repositories, we need a diagram like this:
 
-![Freshly-Made GitHub Repository](../fig/git-freshly-made-github-repo.svg)
+![Freshly-Made GitHub Repository](../fig/git-freshly-made-github-repo.tif)
 
 Note that our local repository still contains our earlier work on `guacamole.md`, but the
 remote repository on GitHub appears empty as it doesn't contain any files yet.
@@ -351,7 +351,7 @@ To https://github.com/alflin/recipes.git
 
 Our local and remote repositories are now in this state:
 
-![GitHub Repository After First Push](../fig/github-repo-after-first-push.svg)
+![GitHub Repository After First Push](../fig/github-repo-after-first-push.tif)
 
 > ## The '-u' Flag
 >

@@ -50,10 +50,10 @@ Replace 'alflin' with the Owner's username.
 
 If you choose to clone without the clone path
 (`~/Desktop/alflin-recipes`) specified at the end,
-you will clone inside your own planets folder!
+you will clone inside your own recipes folder!
 Make sure to navigate to the `Desktop` folder first.
 
-![After Creating Clone of Repository](../fig/github-collaboration.svg)
+![After Creating Clone of Repository](../fig/github-collaboration.tif)
 
 The Collaborator can now make a change in her clone of the Owner's repository,
 exactly the same way as we've been doing before:
